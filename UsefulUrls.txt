@@ -15,3 +15,5 @@ https://machinelearningmastery.com/multi-class-classification-tutorial-keras-dee
 https://depends-on-the-definition.com/guide-to-multi-label-multi-class-classification-with-neural-networks-in-python/
 https://github.com/Microsoft/CNTK
 https://github.com/llSourcell/tensorflow_chatbot
+https://www.redhat.com/archives/fedora-extras-commits/2007-June/msg03617.html
+https://github.com/amasad/arabish

@@ -53,6 +53,8 @@ if __name__ == '__main__':
     XCL.data_from_excel('data/data_sample.xlsx')
     XCL.train()
     print(XCL.classify("الباقة خلصت وسحب من الرصيد بدون اخطار قبلها!"))
+    print(XCL.classify("ازاى اجدد باقة النت قبل ميعادها؟"))
+    print(XCL.classify("لو سمحت عاوز اقدم شكوى فى الفرع"))
     XCL.benchmark(show_best_features=True)
 else:
     pass
