@@ -1,0 +1,17 @@
+http://scikit-learn.org/stable/modules/svm.html#multi-class-classification
+http://textblob.readthedocs.io/en/dev/classifiers.html#loading-data-and-creating-a-classifier
+https://spacy.io/usage/training#section-textcat
+https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45
+https://github.com/pandastrike/bayzee
+https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6
+https://prodi.gy/docs/workflow-text-classification
+https://github.com/jiegzhan/multi-class-text-classification-cnn-rnn
+https://mxnet.incubator.apache.org/tutorials/nlp/cnn.html
+https://github.com/brightmart/text_classification
+https://github.com/dipanjanS/text-analytics-with-python
+https://github.com/richliao/textClassifier
+https://richliao.github.io/supervised/classification/2016/11/26/textclassifier-convolutional/
+https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/
+https://depends-on-the-definition.com/guide-to-multi-label-multi-class-classification-with-neural-networks-in-python/
+https://github.com/Microsoft/CNTK
+https://github.com/llSourcell/tensorflow_chatbot

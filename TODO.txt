@@ -1,0 +1,7 @@
++Add ar-en transliteration
++Optimize algorithm accuracy
++Use different algorithms such as CNN, RNN, etc..
++Parallelize the whole Code
++Add a complete documentation
++Add CLI
++Add support to more dataset-file types
